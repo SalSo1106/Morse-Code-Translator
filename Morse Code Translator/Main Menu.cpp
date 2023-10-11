@@ -33,7 +33,6 @@ Start:
 
 	case 3:
 		cout << "Thank you and Goodbye!" << endl << endl;
-		cout << "hello";
 	}
 
 	system("pause");
